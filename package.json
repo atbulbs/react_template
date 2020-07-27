@@ -1,5 +1,5 @@
 {
-  "name": "react_template",
+  "name": "{{appName}}",
   "description": "project build all in typescript",
   "main": "main.ts",
   "scripts": {
